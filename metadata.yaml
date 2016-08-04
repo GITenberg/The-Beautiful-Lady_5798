@@ -1,0 +1,37 @@
+_repo: The-Beautiful-Lady_5798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, Newton Booth
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Is there something about aesthetic beauty that can soothe the soul of
+  even the most troubled individual? That's the question at the center of Booth Tarkington's
+  eminently entertaining short novel The Beautiful Lady. In the story, a down-on-his-luck
+  Italian who is barely scraping by in Paris has his whole life turned upside down
+  by a chance encounter with the enchanting temptress referred to in the book's title.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Poor men -- France -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Tutors and tutoring -- Fiction'
+- !lcsh 'Millionaires -- Fiction'
+- GITenberg
+title: The Beautiful Lady
+url: http://www.gutenberg.org/ebooks/5798
