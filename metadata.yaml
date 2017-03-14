@@ -1,5 +1,8 @@
 _repo: The-Beautiful-Lady_5798
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -17,6 +20,8 @@ description: Is there something about aesthetic beauty that can soothe the soul 
   eminently entertaining short novel The Beautiful Lady. In the story, a down-on-his-luck
   Italian who is barely scraping by in Paris has his whole life turned upside down
   by a chance encounter with the enchanting temptress referred to in the book's title.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5798#The-Beautiful-Lady
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
